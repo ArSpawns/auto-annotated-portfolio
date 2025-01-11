@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ARSPAWNS PORTOFOLIO
-    subtitle: Hello as you can see this is my portofolio i am professional
+    subtitle: "Hello as you can see this is my portofolio i am professional\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_-Video Editor\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_-Thumbnail Maker"
     styles:
       self:
         height: auto
